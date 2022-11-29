@@ -1,4 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+/* Font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap");
+
 body {
-  background-color: #88f25816;
+  /* background-color: #88f25816; */
+
+  /** Paleta de Colores N1: */
+  background-color: #f5faf8;
+  /* background-color: #fff;  Color del NavBar*/
+  /* background-color: #fff;  Color del Componente o Tarjetas*/
+  /* background-color: #21ba71;  Color del Resaltado*/
+  /* background-color: #ff7b36;  Color del Resaltado 2*/
+
+  /** Paleta de Colores N2: */
+  /* background-color: #def9ed; */
+  /* background-color: #425c51;  Color del NavBar*/
+  /* background-color: #ffffff;  Color del Componente o Tarjetas*/
+  /* background-color: #25ff7c;  Color del Resaltado*/
 }
+
+/* h2 {
+  font-family: "Poppins", sans-serif;
+} */
